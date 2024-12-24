@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 
-![20230514_163919](https://github.com/user-attachments/assets/a82a5036-47d2-4dcc-a045-588c2339d864)
+
