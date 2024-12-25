@@ -7,4 +7,4 @@
 - 🌿 I do agricultural projects. ([agricultural.md](https://github.com/gfarrasb/gfarrasb/blob/main/agricultural.md))
 - 📫 Reach me here: gerard.farras@protonmail.com
 - 🏍️
-- ✍️ ([blog.md](https://github.com/gfarrasb/gfarrasb/blob/main/blog.md))
+- ✍️ [blog.md](https://github.com/gfarrasb/gfarrasb/blob/main/blog.md)
