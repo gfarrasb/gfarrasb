@@ -5,6 +5,6 @@
 - 🌱 I learn new things using https://brilliant.org/
 - 📚 I like to read Haruki Murakami books.
 - 🌿 I do agricultural projects. ([agricultural.md](https://github.com/gfarrasb/gfarrasb/blob/main/agricultural.md))
-- 📫 Reach me here: gerard.farras@protonmail.com or here gerard_farras@enginyeriainformatica.cat
+- 📫 Reach me here: gerard.farras AT proton or here gerard_farras AT Col·legi d'informàtics de Catalunya.
 - 🏍️
 - ✍️ [blog.md](https://github.com/gfarrasb/gfarrasb/blob/main/blog.md)
