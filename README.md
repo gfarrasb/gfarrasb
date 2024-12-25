@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[:herb:]
 - [agricultural projects] ([agricultural.md](https://github.com/gfarrasb/gfarrasb/blob/main/agricultural.md))
 
 
