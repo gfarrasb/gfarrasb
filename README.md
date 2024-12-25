@@ -8,5 +8,5 @@
 - 📫 Reach me here: gerard.farras@protonmail.com
 - 🏍️
 
-✍️- ##Blog
 
+##Blog  ✍️
