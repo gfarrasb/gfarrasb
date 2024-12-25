@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- agricultural projects [agricultural.md]
+- [agricultural projects] (agricultural.md)
 
 
