@@ -6,4 +6,5 @@
 - 📚 I like to read Haruki Murakami books.
 - 🌿 I do agricultural projects. ([agricultural.md](https://github.com/gfarrasb/gfarrasb/blob/main/agricultural.md))
 - 📫 Reach me here: gerard.farras@protonmail.com
+- 🏍️
 
