@@ -6,5 +6,5 @@
 - 📚 My favorite authors: Haruki Murakami, Bertrand Russell, Jeremy Rifkin,  Yuval Noah Harari.
 - 🌿 I try with agricultural projects. ([agricultural.md](https://github.com/gfarrasb/gfarrasb/blob/main/agricultural.md))
 - 📫 Reach me here: gerard.farras AT proton or here gerard_farras AT Col·legi d'informàtics de Catalunya.
-- 🏍️
+- :car: & 🏍️ : Saab 93 sport Sedan vector & BMW r850r
 - ✍️ [blog.md](https://github.com/gfarrasb/gfarrasb/blob/main/blog.md)
