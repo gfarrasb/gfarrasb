@@ -10,7 +10,7 @@
 
 ## 2022: Elaboració de vi negre
 
-<img src="https://github.com/user-attachments/assets/7c55b9b6-11a1-478f-867e-4a3b110b01cc" width="700">
+<img src="https://github.com/user-attachments/assets/7c55b9b6-11a1-478f-867e-4a3b110b01cc" width="450">
 
 
 
