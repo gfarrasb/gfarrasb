@@ -10,7 +10,8 @@
 
 ## 2022: Elaboració de vi negre
 
-![WhatsApp Image 2025-02-05 at 21 06 43](https://github.com/user-attachments/assets/7c55b9b6-11a1-478f-867e-4a3b110b01cc)
+<img src="https://github.com/user-attachments/assets/7c55b9b6-11a1-478f-867e-4a3b110b01cc" width="700">
+
 
 
 
