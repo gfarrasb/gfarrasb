@@ -7,5 +7,6 @@
 - 🌿 I try with agricultural projects. ([agricultural.md](https://github.com/gfarrasb/gfarrasb/blob/main/agricultural.md))
 - 📫 Reach me here: gerard.farras AT proton or here gerard_farras AT Col·legi d'informàtics de Catalunya.
 - :car: & 🏍️ : Saab 93 sport Sedan vector & BMW r850r
+- Entities I love: [CCCB](https://www.cccb.org/ca), [GreenPeace](https://es.greenpeace.org/ca/)
 - [Humanist](https://humanists.international) & [green](https://es.greenpeace.org/es/)
 - ✍️ [Just some ideas here: blog.md](https://github.com/gfarrasb/gfarrasb/blob/main/blog.md)
