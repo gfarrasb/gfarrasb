@@ -8,5 +8,6 @@
 - 📫 Reach me here: gerard.farras AT proton or here gerard_farras AT Col·legi d'informàtics de Catalunya.
 - :car: & 🏍️ : Saab 93 sport Sedan vector & BMW r850r
 - Entities I love: [CCCB](https://www.cccb.org/ca), [GreenPeace](https://es.greenpeace.org/ca/)
+- Old colaborations: [Softcatalà](https://www.softcatala.org), [Empresaris per al Solsonès](https://www.empresarissolsones.com/)
 - [Humanist](https://humanists.international) & [green](https://es.greenpeace.org/es/)
 - ✍️ [Just some ideas here: blog.md](https://github.com/gfarrasb/gfarrasb/blob/main/blog.md)
